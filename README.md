@@ -1,0 +1,3 @@
+# TabApplication
+Tablayout 切换
+* 这个其实和我们之前使用的第三方库ViewPagerIndicator是很类似的，一般都和ViewPager一起使用
